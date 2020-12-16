@@ -6,9 +6,9 @@ import java.util.ArrayList;
 /**
  * Class of the snake. 
  * Snake moved to separate class, so in the future be able to create multiple instances at the same time
- * @autor iliusvla
+ * @autor Yegor18Goda
  * @return snake to gameplay window
- */
+**/
 public class Snake {
 
     public static final int DIR_POUSE = 0;
