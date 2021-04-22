@@ -1,1 +1,2 @@
-# Console game snake.To play use arrow keys.
+# Console game snake.
+To play use arrow keys.
